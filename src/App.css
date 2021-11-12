@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+
+.lurayfooter {
+  width: 100%;
+  height: 90px;
+ 
+}
+
+.socials {
+  padding: 10px;
+  
+}
+
+.copyright {
+  display: inline-block;
+  width: 50%;
+  height: 100%;
+}
+
+
+.socialicons {
+  display: inline-block;
+  height: 100%;
+}
